@@ -1,0 +1,7 @@
+{
+  "name": "@tavardt-pt/cnpd-checklist",
+  "version": "1.0.0",
+  "description": "Checklist tecnica de auditoria de seguranca CNPD e RGPD em Portugal",
+  "license": "MIT",
+  "author": "TAVARDT Portugal (https://ag.tavardt.com/pt/)"
+}
