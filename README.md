@@ -6,7 +6,7 @@
 
 Ferramenta de auditoria técnica, checklist de requisitos de segurança e scripts de verificação perimetral alinhados com as orientações da **Comissão Nacional de Proteção de Dados (CNPD)** e com o **Regulamento Geral sobre a Proteção de Dados (RGPD)** em Portugal.
 
-Desenvolvido e mantido pela área de ciberdefesa da **TAVARDT Portugal**.
+Desenvolvido e mantido pela área de ciberdefesa da **TAVARDT**.
 
 ***
 
@@ -40,7 +40,7 @@ Avalie a segurança das suas aplicações públicas de forma imediata na platafo
 * [Validador de Registos DMARC e Proteção de E-mail](https://tools.tavardt.com/pt/verificador-dmarc-email/)
 * Suíte Completa de Diagnóstico TAVARDT
 
-Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a **TAVARDT Portugal**.
+Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a **TAVARDT**.
 
 ***
 
