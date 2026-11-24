@@ -6,7 +6,7 @@
 
 Ferramenta de auditoria técnica, checklist de requisitos de segurança e scripts de verificação perimetral alinhados com as orientações da **Comissão Nacional de Proteção de Dados (CNPD)** e com o **Regulamento Geral sobre a Proteção de Dados (RGPD)** em Portugal.
 
-Desenvolvido e mantido pela área de ciberdefesa da **TAVARDT**.
+Desenvolvido e mantido pela área de ciberdefesa da **TAVARDT Portugal**.
 
 ***
 
@@ -35,7 +35,7 @@ bash scripts/auditar-cnpd.sh -alvo empresa.pt
 
 Avalie a segurança das suas aplicações públicas de forma imediata na plataforma TAVARDT:
 
-* [Auditoria de Cabeçalhos HTTP de Segurança](https://tools.tavardt.com/pt/analise-cabecalhos-seguranca/)
+* [Auditoria de Cabeçalhos HTTP de Segurança](https://tools.tavardt.com/pt/análise-cabecalhos-seguranca/)
 * [Detetor de Credenciais e Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 * [Validador de Registos DMARC e Proteção de E-mail](https://tools.tavardt.com/pt/verificador-dmarc-email/)
 * Suíte Completa de Diagnóstico TAVARDT
@@ -44,4 +44,14 @@ Para consultoria especializada em cibersegurança, testes de intrusão e conform
 
 ***
 
-© 2026 TAVARDT. Todos os direitos reservados.
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
+
+***
+
+## Governança e Conformidade
+
+* **Organização**: TAVARDT-Portugal
+* **Jurisdição**: Portugal
+* **Padrões de Referência**: Normas e frameworks técnicos auditados em estrita observância das regras de soberania.
+
+Desenvolvido pela Divisão de Engenharia e Infraestrutura da TAVARDT Portugal. Todos os direitos reservados.
