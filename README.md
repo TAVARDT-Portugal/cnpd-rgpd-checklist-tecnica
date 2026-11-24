@@ -6,9 +6,9 @@
 
 Ferramenta de auditoria técnica, checklist de requisitos de segurança e scripts de verificação perimetral alinhados com as orientações da **Comissão Nacional de Proteção de Dados (CNPD)** e com o **Regulamento Geral sobre a Proteção de Dados (RGPD)** em Portugal.
 
-Desenvolvido e mantido pela área de ciberdefesa da [TAVARDT Portugal](https://ag.tavardt.com/pt/).
+Desenvolvido e mantido pela área de ciberdefesa da **TAVARDT Portugal**.
 
----
+***
 
 ## 1. Controlos Técnicos Verificados
 
@@ -17,7 +17,7 @@ Desenvolvido e mantido pela área de ciberdefesa da [TAVARDT Portugal](https://a
 * **Segurança de Cabeçalhos HTTP:** Validação de Content-Security-Policy (CSP), X-Frame-Options e proteção contra ataques de injeção.
 * **Autenticação e Proteção de Domínio:** Auditoria aos registos DMARC, SPF e DKIM para mitigação de fraudes e spoofing de correio eletrónico.
 
----
+***
 
 ## 2. Início Rápido
 
@@ -26,10 +26,10 @@ Clone o repositório e execute a auditoria perimetral diretamente no seu servido
 ```bash
 git clone https://github.com/TAVARDT-Portugal/cnpd-rgpd-checklist-tecnica.git
 cd cpd-rgpd-checklist-tecnica
-bash scripts/auditar-cnpd.sh --alvo empresa.pt
+bash scripts/auditar-cnpd.sh -alvo empresa.pt
 ```
 
----
+***
 
 ## 3. Diagnóstico Técnico Online (Portugal)
 
@@ -38,6 +38,6 @@ Avalie a segurança das suas aplicações públicas de forma imediata na platafo
 * [Auditoria de Cabeçalhos HTTP de Segurança](https://tools.tavardt.com/pt/analise-cabecalhos-seguranca/)
 * [Detetor de Credenciais e Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 * [Validador de Registos DMARC e Proteção de E-mail](https://tools.tavardt.com/pt/verificador-dmarc-email/)
-* [Suíte Completa de Diagnóstico TAVARDT](https://tools.tavardt.com/pt/)
+* Suíte Completa de Diagnóstico TAVARDT
 
-Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a [TAVARDT Portugal](https://ag.tavardt.com/pt/contato/).
+Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a **TAVARDT Portugal**.
