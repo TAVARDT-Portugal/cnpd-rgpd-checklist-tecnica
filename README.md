@@ -1,4 +1,4 @@
-# Checklist Técnica de Segurança & Conformidade CNPD / RGPD | TAVARDT Portugal
+# Checklist Técnica de Segurança & Conformidade CNPD / RGPD
 
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/)
@@ -41,3 +41,7 @@ Avalie a segurança das suas aplicações públicas de forma imediata na platafo
 * Suíte Completa de Diagnóstico TAVARDT
 
 Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
