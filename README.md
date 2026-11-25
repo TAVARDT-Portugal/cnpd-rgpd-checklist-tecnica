@@ -1,9 +1,8 @@
 # Checklist Técnica de Segurança & Conformidade CNPD / RGPD
 
-[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
 [![Diagnóstico TAVARDT](https://img.shields.io/badge/TAVARDT-Diagn%C3%B3stico%20T%C3%A9cnico-5b3cf5.svg)](https://tools.tavardt.com/pt/)
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white)]
 [![Conformidade CNPD](https://img.shields.io/badge/Portugal-CNPD%20%26%20RGPD-00C853.svg)](https://ag.tavardt.com/pt/ciberseguranca/)
+[![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)](LICENSE)
 
 Ferramenta de auditoria técnica, checklist de requisitos de segurança e scripts de verificação perimetral alinhados com as orientações da **Comissão Nacional de Proteção de Dados (CNPD)** e com o **Regulamento Geral sobre a Proteção de Dados (RGPD)** em Portugal.
 
@@ -39,7 +38,6 @@ Avalie a segurança das suas aplicações públicas de forma imediata na platafo
 * [Auditoria de Cabeçalhos HTTP de Segurança](https://tools.tavardt.com/pt/análise-cabecalhos-seguranca/)
 * [Detetor de Credenciais e Ficheiros Expostos](https://tools.tavardt.com/pt/verificador-ficheiros-expostos/)
 * [Validador de Registos DMARC e Proteção de E-mail](https://tools.tavardt.com/pt/verificador-dmarc-email/)
-* Suíte Completa de Diagnóstico TAVARDT
 
 Para consultoria especializada em cibersegurança, testes de intrusão e conformidade técnica em Portugal, contacte a **TAVARDT**.
 
